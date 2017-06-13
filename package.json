@@ -1,7 +1,7 @@
 {
   "name": "test-deployment",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Nothing special",
   "main": "index.js",
   "scripts": {
     "start": "node .",
