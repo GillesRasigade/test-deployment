@@ -1,1 +1,3 @@
-console.log('started');
+const { version } = require('./package.json');
+
+console.log('Application version', version);
